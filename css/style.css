@@ -56,7 +56,7 @@ html {
 }
 
 body{
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', italic;
 
 }
 
@@ -83,6 +83,7 @@ body{
 }
 
 .logo_title{
+    font-family: 'Fredoka One', italic;
     font-weight: 800;
     font-size: 26px;
     color: #fff;
@@ -98,9 +99,11 @@ body{
 }
 .inp::placeholder{
     color: #fff;
+    font-family: 'Fredoka One', italic;
 }
 
 .item {
+    font-family: 'Fredoka One', italic;
     display: flex;
     justify-content: space-between;
     width: 100%;
